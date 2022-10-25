@@ -1,4 +1,4 @@
-# Fashion-MNIST Recognition using WISARD Weightless Neural Networks
+# Fashion-MNIST classifier using WISARD Weightless Neural Networks
 
 ![](./docs/screenshot.png)
 
